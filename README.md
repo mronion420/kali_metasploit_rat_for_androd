@@ -1,5 +1,5 @@
 # kali_metasploit_rat_for_androd
-Collected From Bd Grey Hat Hackers
+
 
 How to hack android phone using Metasploit.
 Commands - 
